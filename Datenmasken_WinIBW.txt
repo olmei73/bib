@@ -1,0 +1,163 @@
+++
+
+Bibeln (Aau)
+
+Aav ?
+
+2192 VD18 ...
+0701 RedVD18-DE-24
+
+Suffix löschen!
+
+4233 $aaa$fSLG$xXA-DE-BW$zBibeln$5DE-24
+
+
+
+1100 röm. Jahr ?
+3010 Verleger ?
+4060 Seiten ?
+1700 XA-DE  o.ä. ?
+
+0599 SLoT nicht belegen bei 4249 Erweitert durch ... wird nur bei "richtigen" Zusammenstellungen mit Teilwerken belegt
+
+2277 Metzger, H.D. Gesangbücher xxxx-xxx
+
+2277 |s|Lütze IV, xxxx
+
+2277 |b|Adler, J. G. C. Bibliotheca Lorckiana xxxx
+
+2277 NUC pre 56 NBi xxxx 
+
+2277 Darlow & Moule xxxx
+
+2277 RISM B/VIII 1738 18
+
+2277 WLB Bibelslg. Exxxx
+
+3210 !106217658! Bibel$pNeues Testament ; ID: gnd/4041771-2
+
+3210 !106193988! Bibel$pPsalmen ; ID: gnd/4047632-7
+
+3210 !106377604!Bibel ; ID: gnd/4006406-2
+
+
+ALTD$avd18$amv18$aBB00  - nach 8012 hinter ABER setzen (im Lokalsatz)
+
+9100 DE-24$2457284531X$3Bb graph.178501|vb|!079966411!Lütze, Diethelm *1931-2014* ; ID: gnd/119170361$bNotiz$kSammlung Lütze IV, 1998 erworben
+
+4278 DE-24$2461381118X$3B deutsch 173804|eb|$aNN$bHandeinband$bGanzband$c17XX$kBezugsart: Gewebe (Samt, blau). - Vorderdeckel: Metallauflage (Gold): filigrane Goldschmiedearbeit (Vermeil-Einband), durchbrochen, breite Bordüre: Vögel (vermutlich Pfau), Blumen, Obstschale, Ranken, Blattwerk. - Hinterdeckel: wie Vorderdeckel. - Rücken: glatt; Metallauflage (Gold): filigrane Goldschmiedearbeit (wie Vorderdeckel): Kopf, Schwanz, Häubchen. - Schnitt: Goldschnitt; Buchschließen: Metallschließen (Gold), filigran durchbrochen: Vogel (vermutlich Pfau), Blattwerk. - Spiegel: Textilauflage (Seide, Moirée-Seide). - Vorsatz: wie Spiegel. - Land: Schweiz. - Format: Oktav. - Typ: Barock. - Typ: Spezielle Einbandsammlung (ES)
+
+Bleibt:
+
+1505 $erda
+0599 vd18
+4233 $aca$fVD18$5DE-24
+
+
+
+++
+
+Bibeln (Oau)
+
+Oav ?
+Württembergica?
+
+0575 mteo (u.a. Abrufzeichen übernehmen)
+4065 XA-DE$cWürttembergische Landesbibliothek Stuttgart$a xxx Signatur 3x
+
+
+
+Aussuchen, welches zum jeweiligen Vorgang passt:
+
+4110 Digitale Sammlungen der Württembergischen Landesbibliothek$pBibeln
+
+4120 #bibe,[Erscheinungsjahr]#!1376902826!
+
+Wenn keine komplette Bibel, sondern nur ein Teil:
+
+4120 #neue,test,[Erscheinungsjahr]#!1376902826!
+
+4120 #psal,[Erscheinungsjahr]#!1376902826!
+
+------
+
+4111 Digitale Sammlungen der Württembergischen Landesbibliothek$pMusik
+4121 #....,….#!1397020636!
+
+------
+
+4111 Digitale Sammlungen der Württembergischen Landesbibliothek$pWürttembergica 
+4121 #....,….#!1395270252!
+
+
+
+7133 in den Lokalsatz einfügen: urn aus 4950 bis $x
+
+Noch Exemplarsatz bearbeiten
+
+Bleibt:
+
+0599 SWB: dm
+0599 SWB: ld
+0599 vd18
+0701 RedVD18-DE-24
+1101 crxun ---uuaua
+1109 2025
+4048 Stuttgart$nWürttembergische Landesbibliothek
+4066 XA-DE$cDE-24
+4115 VD18 digital
+
+
+
+Generalreskripte
+(Aau)
+
+0500 Aau
+0599 vd18
+4233 $aca$fVD18$5DE-24  
+0701 RedVD18-DE-24
+2192 VD18 XXXX
+ 
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+
+0503 Blatt$bnb 
+0503 Band$bnc
+
+1100 1741$n[1741]
+1131 !10554731X!
+1500 ger
+1505 $erda
+1700 XA-DE-BW
+
+2277 |b|Reyscher, A. L. Württemberg. XXX-Gesetze, Bd. 1X, Nr. XXX
+
+3010 !596145683!$BVerfasserIn$4aut
+3110 !106110780!$BGeregelte Gebietskörperschaft$4jug
+3110 !105790907!$BGeregelte Gebietskörperschaft$4jug
+
+3210 Generalreskript,  xxxxx $f1741-xx-xx
+
+4201 Bibliographischer Nachweis: Reyscher, A. L. Württemberg. Kriegs-Gesetze, Bd. 1, Nr. 403: General-Rescript, enthaltend Vorschriften für das Benehmen der Soldaten im Urlaub (mit Text)
+
+4000 Von GOttes Gnaden, Carl Friderich, Hertzog zu Würtemberg und Teck, auch in Schlesien zu Oels und Bernstadt, Graf zu Mömpelgardt/ Herr zu Heydenheim ... Lieber Getreuer!
+
+4000 Von GOttes Gnaden Carl Friderich, Hertzog zu Würtemberg und Teck, auch zu Oels und Bernstatt in Schlesien/ Graf zu Mömpelgart, Herr zu Heydenheim ... Lieber Getreuer!
+
+
+4030 [Deutschland]$n[Verlag nicht ermittelbar]
+4060 ... 
+
+4062 circa 35 x 21 cm; Satzspiegel: 31,3 x 34,0 cm
+
+4200 Herzog Württemberg Montbéliard Heidenheim Stuttgart 2. Jan. 1741 Januar 1741-01-02 
+4201 Titel ist der Textanfang
+
+4217 Erscheinungsjahr nach Datierung am Schluss: Stuttgardt, den 7. Jan. 1741
+
+5570 !096633298!
+5570 !096631228!
+
+4201 Umlaute in der Vorlage mit übergestelltem "e"
+
+9100 DE-24$2XXXXXXX$3Wirt.R.fol.129-28|vb|!077994604!
