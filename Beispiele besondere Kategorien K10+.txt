@@ -1,0 +1,32 @@
+Beispiele Kategorien
+
+3210 = Werktitel / Unterscheidende Merkmale
+4000 Dispvtatio
+3210 Disputatio
+
+-------------------------------
+3260 = Abweichender Titel
+
+4000 100 Jahre Sportverein
+3260 Hundert Jahre Sportverein
+
+--------------------------------
+3210/3260 = Alternativtitel
+4000 Tabaco-Logia, Das Ist/ Kurzer/ nützlicher und gründlicher Bericht Von Dem Taback
+3210 Tabaco-Logia
+3260 Kurzer, nützlicher und gründlicher Bericht von dem Taback
+
+------------------------------------------
+4212 = Abweichender Titel (sichtbar f. Benutzer)
+Bei Kupfertitel eine Abweichung zum Titel auf der Haupttitelseite
+
+-----------------------------------------
+4002 = Paralelltitel (+ Titelzusatz+ Verantwortlichkeitsangabe)
+	
+	
+4000 Colloquia scholastica 
+4002 школьные разговоры
+4002 Schulgespräche
+4002 Dialogves
+
+Titel in einer anderen Sprache
