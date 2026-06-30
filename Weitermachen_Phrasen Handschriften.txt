@@ -1,0 +1,188 @@
+Phrasen Handschriften
+(Alte Drucke)
+
+
+1100 1750$n[1750]
+4217 Erscheinungsjahr nach Datierung am Schluss: Ludwigsburg, den 01. Jan. 1732
+
+1100 1750$n[1750?]
+4217 Erscheinungsjahr nicht ermittelbar, um 1750 erschienen
+--------------------------------------------------------------------------------------------------------------------------------------
+
+1131 !10554731X! (Einblattdruck)
+1131 !10457187X! (Handschrift)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+3010 !07975144X! (Johann Franz II. Konstanz, Bischof *1658-1740*)
+3010 !136469841! (Damian Hugo, Speyer, Bischof)
+ … Damian Hugo, der Heil. Röm. Kirchen Cardinal, Bischoff zu Speyer und Costantz
+
+3010 $P[Verfassername vollständig oder nur Nachname oder Initialen]
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+3260 Ross Arznei Buch
+3260 Ross-Arznei-Buch
+3260 100 Jahre
+3260 Einhundert Jahre
+--------------------------------------------------------------------------------------------------------------------------------------
+4000  … [Leerstelle] …
+4000 Von GOttes Gnaden, Johann Frantz, Bischoff zu Costantz und Augspurg ... Carl Friderich, Hertzog zu Würtemberg und Teck, auch in Schlesien zu Oels ...
+--------------------------------------------------------------------------------------------------------------------------------------
+
+4030 [Deutschland]$n[Verlag nicht ermittelbar]
+4030 Süddeutschland$n[Verlag nicht ermittelbar]
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+4060 1 Bogen ([2] Seiten) (wenn Rückseite beschriftet)
+4060 1 Bogen (wenn Rückseite nicht beschriftet)
+4060 [3] Seiten
+4060 1 Bogen, [1] Blatt Tafel
+
+4060 [1] gefaltetes Blatt Tafel
+4201 Das gefaltete Blatt ist eine Tabelle
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+4061 Frontispiz, 3 Illustrationen, Notenbeispiele
+4061 4 Vignetten
+4061 Illustrationen
+--------------------------------------------------------------------------------------------------------------------------------------
+
+4062 circa 35 x 21 cm; Satzspiegel: 25,7 x 15,9 cm (Höhe x Breite)
+4062 2°, 4°, 8°, 12° (bei mehreren Blättern)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+4200 … … … … 1732-02-13 … … … 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+4201 Original: Handschrift auf Papier oder Pergament
+4201 Titel ist der Textanfang
+4201 Umlaute in der Vorlage mit übergestelltem "e"
+4201 Auf den Text folgt ein Postscriptum
+4201 Formularschreiben mit Auslassungen (für die Angaben zur angeschriebenen Gebietskörperschaft)
+4201 Erscheint auch zusammen mit: Vermahnung an die Gemeinde. Geliebte in Christo (VD18 13368109)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Nebst …
+3260 [Titel einfügen] (Sucheinstieg)
+4249 Erweitert durch$l[Autor]$t[Titel]
+--------------------------------------------------------------------------------------------------------------------------------------
+
+4801 *** [Generalreskripte ... ; Reihe 1 ; Bd. 28]
+4802 [Zahl Paginierung einfügen]
+7100 $B24$aWirt.R.fol.129-28
+8012 veex$aALTD$avd18$amv18
+--------------------------------------------------------------------------------------------------------------------------------------
+
+5570 !096633298! (Verordnung)
+5570 !096631228! (Einblattdruck)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Vorlagen aus Katalogisierung Bibeln
+
+4201 Titelblatt in Rot- und Schwarzdruck
+4201 Die Rückseite der Titelseite ist unbedruckt
+4201 Umlaute in der Vorlage mit übergestelltem "e" und Umlaut-Punkten
+4201 Ohne Noten
+4201 Mit einigen Liedern ohne Noten
+4201 Titelvignette, Kopfvignette (Fleuron) und Schlussvignette (Cul-de-lampe)
+4201 Kernstellen in Rotdruck (wenn im Fließtext manche Zeilen und Abschnitte Rot gedruckt wurden)
+4201 Kupferstich befindet sich auf dem Titelblatt
+4201 Die Tafel ist ein Frontispiz, es befindet sich auf der Rückseite und hat eine leere Vorderseite
+4201	Die Illustration ist ein Kupferstich und ein Frontispiz
+4201 Initialen des Verfassers nach dem im Exemplar der WLB Stuttgart vorgebundenen Werk ermittelt
+4201 Text auf Frontispiz: "………….."
+4201 Kupfertafeln auch separat abgedruckt unter dem Titel: "Vorbildung der vornehmsten Wercke, Wunder, Wohlthaten und Berichte Gottes ... in 30. schönen Kupffer Blatten vorgestellt, [1729]"
+4201 Motiv auf Frontispiz: …
+4201 Die Vorlage enthält insgesamt 2 Werke
+4201 Kopftitel und das Titelblatt der enthaltenen Werke dem Inneren entnommen
+4201 Illustrierte Seiten sind mit mehreren Illustrationen pro Seite bestückt
+4201 Verfasser ermittelt in: Holzmann & Bohatta. Deutsches Anonymenlexikon
+4201 Verfasser im Vorwort genannt
+4201 Veröffentlichungs- und Verfasserangabe wurden dem Text unterhalb der ersten Illustration entnommen
+4201 Namen der Übersetzer wurde dem Text: " … " entnommen
+4201 Paginierfehler: Seite 128 fälschlich als Seite 228 paginiert
+4201 Paginierfehler zwischen Seite 15 und 17 und Seite 61 und 63
+4201 Werk enthält zahlreiche Paginierfehler
+4201 Frontispiz kann nicht eindeutig Johann Stridbeck dem Älteren oder Johann Stridbeck dem Jüngeren zugeordnet werden	
+4201 Drucker kann nicht eindeutig Balthasar Christoph Wust dem Älteren oder Balthasar Christoph Wust dem Jüngeren zugeordnet werden
+4201 Hinweis zum Bibliographischen Nachweis: RISM B/VIII 1738 18 betrifft den Teil "Die CL. Psalmen Davids"
+4201 Ausgabe des Psalters im 12° Format, jedoch in Fenster von Quartbögen eingeklebt
+4201 Ausgabe des Neuen Testaments im 8° Format, jedoch auf Quartbögen befestigt
+4201 Die Veröffentlichungsangaben des `Neuen Testamentes` stimmt mit der des `Alten Testamentes` überein
+4201 Die Veröffentlichungsangabe befindet sich in der Druckermarke auf dem Titelblatt
+4201 Der Zwischentitel ist zugleich ein Kupfertitel
+
+--------------------------------------------------------------------------------------------------------------------------------------
+4212 Kupfertitel: Biblia, die ganze heilige Schrift 
+
+
+4212 Zwischentitel: Apocrypha: Das sind Bücher, so der Heil. Schrifft nicht gleich gehalten ...
+
+--------------------------------------------------------------------------------------------------------------------------------------
+4217 Vorlageform der Veröffentlichungsangabe: …………..
+4217 Vorlageform der Veröffentlichungsangabe auf Titelblatt `Neues Testament`: ……….. (wenn im Zwischentitel ein Impressum mit anderem Erscheinungsjahr) + die andere Jahreszahl noch in 4200 recherchierbar ablegen.
+4217 Veröffentlichungsangabe ermittelt in: Gesamtverzeichnis des deutschsprachigen Schrifttums (GV) 1700-1910, Band 44, Seite 107 : Thal Ehrenbreitstein : Gehra (in Commission)
+4217 Vorlageform des Erscheinungsjahrs: cIↄ Iↄ CCII
+4217 Erscheinungsjahr wurde dem Ende des Textes entnommen. – „Schriebs den 7. Januarii, 1741“
+4217 Erscheinungsjahr dem beigefügten Werk im Exemplar der WLB Stuttgart entnommen
+4217 Erscheinungsjahr dem vorgebundenen Werk im Exemplar der WLB Stuttgart entnommen
+4217 Erscheinungsjahr wurde dem Werk 'Michael Bauer: Christoph Weigel (1654 - 1725) Kupferstecher und Kunsthändler in Augsburg und Nürnberg' entnommen
+4217 Erscheinungsjahr geschätzt nach dem Erscheinungsjahr des vorgebundenen Werks im Exemplar der WLB Stuttgart
+4217 Erscheinungsjahr dem Katalog der WLB Stuttgart entnommen
+4217 Erscheinungsjahr dem Katalog "Die Bibelsammlung der Württembergischen Landesbibliothek Stuttgart" entnommen
+
+--------------------------------------------------------------------------------------------------------------------------------------
+4221 Text in lateinischer, deutscher und französischer Sprache
+4221 Text in jiddischer Sprache und hebräischer Schrift
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Nebst …
+3260 [Titel einfügen] (Sucheinstieg)
+4010 [Nebst …]
+4201 Die Vorlage enthält insgesamt XXX Werke
+4249 Erweitert durch$l[Autor]$t[Titel]
+
+--------------------------------------------------------------------------------------------------------------------------------------
+4222 Beyfügung einiger nöthigen Gebete, welche 1. Morgens und Abends/ 2. Bey der Beichte und Communion/ 3. In Kranckheit und Sterben nützlich zu gebrauchen. Wittenberg, Bey Christian Gottlieb Ludwig 1724
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Provenienzen & Co.:
+9100 DE-24$22379368880$3HB 7979|vb|
+
+--------------------------------------------------------------------------------------------------------------------------------------
+NBI Nummer:
+2277 NUC pre 56 NO 0069390
+
+Metzgernummer:
+2277 Metzger, H.D. Gesangbücher XXXX-XXX
+
+Adler Nummer:
+2277 |b|Adler, J. G. C. Bibliotheca Lorckiana XXXX
+
+Katalog Bibelsammlung:
+2277 WLB Bibelslg. E1458
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+Hochschulschriftenvermerk:
+1131 !PPN!Hochschulschrift ; ID: gnd/...
+oder
+1131 !PPN!Dissertation <Alter Druck> ; ID: gnd/…
++
+4204 $dDissertation$eUniversität Leipzig$f1740
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Katalogisieren für BSB (in unserer Aau eintragen aus der Aufnahme der BSB in VD18 recherchiert)
+4256 Elektronische Reproduktion$dMünchen$eBayerische Staatsbibliothek$f2011$CURN$6urn:nbn:de:bvb:12-bsb10632337-1
+4951 http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10632337-1$t// Exemplar mit der Signatur: München, Bayerische Staatsbibliothek -- 2 Diss. 150$xR$4LF
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
