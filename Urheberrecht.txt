@@ -1,0 +1,10 @@
+Urheberrecht
+
+Eine Sache noch zum Urheberrecht: Wenn es keinen Urheber gibt oder die Lebensdaten nicht ausfindig gemacht werden können, können wir auch grob nach dem Erscheinungsjahr gehen.
+Für alles, was ÄLTER als 150 Jahre ist, können wir generell auch "public domain" vergeben. Dem liegt folgende Rechnung zugrunde: 
+- ein Verfasser ist zum Zeitpunkt der Erstellung mindestens 20 Jahre alt.
+- er lebt dann max. noch 80 Jahre (d.h. wurde 100 Jahre alt, was eher unwahrscheinlich ist).
+- seit seinem Tod sind 70 Jahre vergangen
+-> 150 Jahre nach Erscheinen
+Damit dürfte man dann immer auf der sicheren Seite sein, wie gesagt: wenn man keine Lebensdaten ermitteln kann oder kein Verfasser / Herausgeber etc. angegeben ist.
+Sonst immer "Rechte vorbehalten" vergeben, bzw. wenn wir wirklich wissen, dass ein Urheber noch nicht 70 Jahre tot ist, dann dürfen wir das Werk tatsächlich nicht "öffentlich zugänglich machen" (das ist der Fachausdruck für "online"-stellen). Digitalisieren dürften wir es tatsächlich, aber unser Ziel sollte natürlich immer sein, das Digitalisat dann auch online zu stellen.
